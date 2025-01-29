@@ -1,14 +1,7 @@
-# Udemy Course Docker Mastery: with Kubernetes+Swarm from a Docker Captain
+# Udemy Course Docker Mastery
 
-[![](https://dcbadge.limes.pink/api/server/devops)](https://discord.gg/devops)
-
-> Build, test, and deploy containers with the best mega-course on Docker, Kubernetes, Compose, Swarm and Registry using a cloud native DevOps mindset
-
-This repository is for use in my Udemy Courses "[Docker Mastery](https://www.udemy.com/course/docker-mastery/?referralCode=1410924A733D33635CCB
+This repository is for use in Udemy Courses "[Docker Mastery](https://www.udemy.com/course/docker-mastery/?referralCode=1410924A733D33635CCB
 )" and "[Swarm Mastery](https://www.udemy.com/course/docker-swarm-mastery/?referralCode=4927D9CB156D4AE0228C)"
-
-- Get these courses with my "cheapest on the internet" coupon links: [bretfisher.com/courses](https://www.bretfisher.com/courses)
-- Get the [weekly newsletter](https://www.bretfisher.com/newsletter) on all the cloud native DevOps content I'm creating.
 
 ## Course Sections
 
@@ -42,5 +35,3 @@ This repository is for use in my Udemy Courses "[Docker Mastery](https://www.ude
 26. Dockerfiles and Docker Images in 2022
 27. Dockerfile and Compose File Reviews
 28. Extra's, Common Questions, and Resources
-
-Feel free to create issues or PRs if you find a problem with examples in this repository!
